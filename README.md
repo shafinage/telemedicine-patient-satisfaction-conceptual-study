@@ -30,7 +30,10 @@ A structured literature review and evidence synthesis approach was applied.
 Each study was systematically extracted and tabulated to identify:
 - Dependent, independent, moderating, and mediating variables  
 - Research methods and analytical approaches  
-- Key findings and limitations  
+- Key findings and limitations
+
+![Literature Matrix](figures/literature-matrix.png)
+Figure 1 Literature Matrix
 
 ---
 
@@ -41,6 +44,9 @@ A literature matrix was developed to organize and analyze extracted variables. V
 - Selected based on repeated occurrence across studies
 
 Variables appearing in **four or more studies** were considered significant for framework development.
+
+![Frequency Analysis](figures/frequency-variables.png)
+Figure 2 Frequency Analysis
 
 ---
 
@@ -68,7 +74,10 @@ This framework integrates established theories such as:
 - Technology Acceptance Model (TAM)  
 - Expectation Disconfirmation Theory (EDT)  
 - Telehealth Usability Questionnaire (TUQ)  
-- SERVQUAL model  
+- SERVQUAL model
+
+![Conceptual Framework](figures/conceptual-framework.png)
+Figure 3 Conceptual Framework
 
 ---
 
@@ -79,3 +88,8 @@ This study contributes by:
 - Providing a foundation for future empirical studies on post-pandemic telemedicine adoption
 
 ---
+📄 Full paper summary available in `docs/conceptual-paper.pdf`
+
+*This document is shared for portfolio demonstration only.*
+
+
