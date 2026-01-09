@@ -88,8 +88,6 @@ This study contributes by:
 - Providing a foundation for future empirical studies on post-pandemic telemedicine adoption
 
 ---
-📄 Redacted paper available in [Redacted Conceptual Paper](docs/conceptual-paper-redacted.pdf)
-
-*This repository contains heavily redacted and summarized research materials for portfolio demonstration purposes only.*
+*This repository contains heavily summarized research concepts materials for portfolio demonstration purposes only.*
 
 
